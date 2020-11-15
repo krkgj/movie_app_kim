@@ -40,4 +40,5 @@
 .movie_detail {
   display: flex;
   width: 45%;
+  color: gray;
 }
